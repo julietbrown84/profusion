@@ -1,3 +1,3 @@
 # profusion
 
-Making cut out heads go crazy 
+Making cut out heads go crazy  - overlapping eachother 
